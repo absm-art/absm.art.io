@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>AB Smart: The Coolest Person Who Ever Lived</title>
-	<link>http://localhost:1313/tags/journal/</link>
+	<link>https://absm.art/tags/journal/</link>
 	<description>Recent content in Journal on AB Smart: The Coolest Person Who Ever Lived</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Fri, 21 Mar 2025 16:02:52 -0500</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://absm.art/tags/journal/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Blogpost</title>
-		<link>http://localhost:1313/journal/blogpost/</link>
+		<link>https://absm.art/journal/blogpost/</link>
 		<pubDate>Fri, 21 Mar 2025 16:06:39 -0500</pubDate>
 		
-		<guid>http://localhost:1313/journal/blogpost/</guid>
+		<guid>https://absm.art/journal/blogpost/</guid>
 		<description>&lt;p&gt;Welcome to my site. I&amp;rsquo;m brand new at making things on a somewhat professional level, and that certainly applies here. I&amp;rsquo;m doing my best to serve this site securely and safely.&lt;/p&gt;
 &lt;p&gt;I hope I can bring some more of my content here in time, and that eventually this will be the ultimate hub for all of my stuff.&lt;/p&gt;
 &lt;p&gt;Thanks for visiting!&lt;/p&gt;
@@ -25,20 +25,20 @@
 	
 	<item>
 		<title>Postone</title>
-		<link>http://localhost:1313/postone/</link>
+		<link>https://absm.art/postone/</link>
 		<pubDate>Fri, 21 Mar 2025 16:02:52 -0500</pubDate>
 		
-		<guid>http://localhost:1313/postone/</guid>
+		<guid>https://absm.art/postone/</guid>
 		<description>&lt;p&gt;Guess what punks I&amp;rsquo;m the greatest&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>About</title>
-		<link>http://localhost:1313/about/</link>
+		<link>https://absm.art/about/</link>
 		<pubDate>Fri, 21 Mar 2025 15:55:02 -0500</pubDate>
 		
-		<guid>http://localhost:1313/about/</guid>
+		<guid>https://absm.art/about/</guid>
 		<description>&lt;p&gt;Here is some content. This is all in Markdown.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;ahhhh yes formatted text&lt;/li&gt;
