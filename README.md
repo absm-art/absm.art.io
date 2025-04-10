@@ -13,8 +13,6 @@ You are currently viewing the Readme File ( https://github.com/absm-art/absm.art
 
 If you're seeing this message, the HTML version of the site is offline temporarily.
 
-Follow me on BlueSky at blobrights@bsky.social
-
-Contact me at Andy@absm.art
+Follow me on BlueSky at blobrights.bsky.social
 
 Have a nice day!
