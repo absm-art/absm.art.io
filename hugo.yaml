@@ -2,4 +2,71 @@ baseURL: https://www.absm.art/
 languageCode: en-us
 title: Blob Base
 theme: ["PaperMod"]
+paginate: 5
+theme: PaperMod
 
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Blob Base
+  description: "Welcome to my Cybernest"
+  keywords: [Blog, Portfolio, Art]
+  author: Andrew Smart
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: false
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi"
+    Content: Dis da blog. Welcome
+
+  socialIcons:
+    - name: BlueSky
+      url: "https://bsky.app/profile/blobrights.bsky.social"
+      
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: absm.art
+      url: https://www.absm.art
+      weight: 30
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
