@@ -13,6 +13,6 @@ You are currently viewing the Readme File.
 
 If you're seeing this message, the HTML version of the site is offline temporarily.
 
-Follow me on BlueSky at " blobrights "
+Follow me on BlueSky at blobrights.
 
 Have a nice day!
