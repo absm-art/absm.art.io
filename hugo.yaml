@@ -2,7 +2,7 @@ baseURL: https://www.absm.art/
 languageCode: en-us
 title: Blob Base
 theme: ["PaperMod"]
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
