@@ -9,10 +9,12 @@ My name is Andy.
 
 This site is hosted on Github Pages. It uses Hugo to generate resources for Github to build.
 
-You are currently viewing the Readme File.
+You are currently viewing the Readme File ( https://github.com/absm-art/absm.art.io ) .
 
 If you're seeing this message, the HTML version of the site is offline temporarily.
 
-Follow me on BlueSky at blobrights.
+Follow me on BlueSky at blobrights@bsky.social
+
+Contact me at Andy@absm.art
 
 Have a nice day!
