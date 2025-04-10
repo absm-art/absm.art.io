@@ -1,0 +1,5 @@
+baseURL: https://www.absm.art/
+languageCode: en-us
+title: Blob Base
+theme: ["PaperMod"]
+
