@@ -1,0 +1,4 @@
+baseURL = 'https://absm.art/'
+languageCode = 'en-us'
+title = 'AB Smart: The Coolest Person Who Ever Lived'
+theme = 'lugo'

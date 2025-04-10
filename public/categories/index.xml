@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>AB Smart: The Coolest Person Who Ever Lived</title>
+	<link>http://localhost:1313/categories/</link>
+	<description>Recent content in Categories on AB Smart: The Coolest Person Who Ever Lived</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Blogpost</title>
+		<link>http://localhost:1313/journal/blogpost/</link>
+		<pubDate>Fri, 21 Mar 2025 16:06:39 -0500</pubDate>
+		
+		<guid>http://localhost:1313/journal/blogpost/</guid>
+		<description>&lt;p&gt;Welcome to my site. I&amp;rsquo;m brand new at making things on a somewhat professional level, and that certainly applies here. I&amp;rsquo;m doing my best to serve this site securely and safely.&lt;/p&gt;
+&lt;p&gt;I hope I can bring some more of my content here in time, and that eventually this will be the ultimate hub for all of my stuff.&lt;/p&gt;
+&lt;p&gt;Thanks for visiting!&lt;/p&gt;
+&lt;p&gt;-AB&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Postone</title>
+		<link>http://localhost:1313/postone/</link>
+		<pubDate>Fri, 21 Mar 2025 16:02:52 -0500</pubDate>
+		
+		<guid>http://localhost:1313/postone/</guid>
+		<description>&lt;p&gt;Guess what punks I&amp;rsquo;m the greatest&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Fri, 21 Mar 2025 15:55:02 -0500</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;p&gt;Here is some content. This is all in Markdown.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ahhhh yes formatted text&lt;/li&gt;
+&lt;li&gt;the old magicks&lt;/li&gt;
+&lt;li&gt;i had forgotten their power&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;but can you remember how to do things
+: things aren&amp;rsquo;t what they seem&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I don&amp;rsquo;t care&lt;/li&gt;
+&lt;li&gt;I do care&lt;/li&gt;
+&lt;li&gt;This list is inclusive&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
