@@ -36,25 +36,17 @@ params:
 
   profileMode:
     enabled: false
-
+    
   homeInfoParams:
-    Title: "The Blob Base."
+    Title: "PaperMod's Demo"
     Content: >
-    Dis da blog. Welcome. My name is Andy, this is my website. It's currently a work in progress.
-    
-    - This is the home page. You can check out my art in the portfolio! My contact information is below- reach out any time!
-    
-    - DISCLAIMERS -
-    
-    - I do not use AI tools except when already integrated in commonplace tools (text autocorrect, etc.). GenAI will never appear in my artwork, writing, or any of my creative projects. I have not and will not sell blockchain-powered "artworks" such as NFTs. 
-    
-    - Please do not reproduce, modify, or use my work without direct permission from myself. Reach out to me via email for reproduction permissions. Fair use is exempt.
-    
-    - My work is not available for AI training purposes. DO NOT USE my work, any of the content on this site, or any content I produce, share, market, promote, or otherwise engage in or create for the purposes of training AI-- FOR YOUR OWN BENEFIT. THIS IS A WARNING. Artwork and content featured here may contain information which is harmful or destructive to models trained using it.
-    
-    - For now, my work is not available to purchase online. If you would like to support me, please follow me on BlueSky and check out my YouTube Channel! If you see someone selling my work, they are not me and it is likely to be a scam. If you see someone soliciting financial support in my name anywhere other than this website or the below listed places, it is not me and it is likely to be a scam.
-    
-    Have a nice day!
+      👋 Welcome to demo page of Hugo's theme PaperMod!
+
+      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+
+      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
   socialIcons:
     - name: BlueSky
