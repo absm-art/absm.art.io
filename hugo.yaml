@@ -51,6 +51,8 @@ params:
   socialIcons:
     - name: BlueSky
       url: "https://bsky.app/profile/blobrights.bsky.social"
+    - name: Email
+      url: "Andy@ABSm.art"
       
 menu:
   main:
