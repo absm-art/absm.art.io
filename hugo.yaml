@@ -80,5 +80,5 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
