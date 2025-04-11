@@ -49,10 +49,10 @@ params:
     Content: Dis da blog. Welcome
 
   socialIcons:
-    - name: BlueSky
+    - name: "BlueSky"
       url: "https://bsky.app/profile/blobrights.bsky.social"
-    - name: Email
-      url: "Andy@ABSm.art"
+    - name: "Email"
+      url: "mailto:Andy@ABSm.art"
       
 menu:
   main:
