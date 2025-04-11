@@ -46,7 +46,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi"
-    Content: Dis da blog. Welcome
+    Content: Dis da blog. Welcome. My name is Andy, this is my website. It's currently a work in progress.
 
   socialIcons:
     - name: "BlueSky"
