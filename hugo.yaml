@@ -1,3 +1,92 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://www.absm.art/"
+title: Blob Base
+pagination.pagerSize: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  title: Blob Base
+  description: "Blob Base - ABSM.art - Welcome to my Cybernest"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: AB Smart
+  
+  defaultTheme: auto
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "The Blob Base."
+    Content: >
+    Dis da blog. Welcome. My name is Andy, this is my website. It's currently a work in progress.
+    
+    - This is the home page. You can check out my art in the portfolio! My contact information is below- reach out any time!
+    
+    - DISCLAIMERS -
+    
+    - I do not use AI tools except when already integrated in commonplace tools (text autocorrect, etc.). GenAI will never appear in my artwork, writing, or any of my creative projects. I have not and will not sell blockchain-powered "artworks" such as NFTs. 
+    
+    - Please do not reproduce, modify, or use my work without direct permission from myself. Reach out to me via email for reproduction permissions. Fair use is exempt.
+    
+    - My work is not available for AI training purposes. DO NOT USE my work, any of the content on this site, or any content I produce, share, market, promote, or otherwise engage in or create for the purposes of training AI-- FOR YOUR OWN BENEFIT. THIS IS A WARNING. Artwork and content featured here may contain information which is harmful or destructive to models trained using it.
+    
+    - For now, my work is not available to purchase online. If you would like to support me, please follow me on BlueSky and check out my YouTube Channel! If you see someone selling my work, they are not me and it is likely to be a scam. If you see someone soliciting financial support in my name anywhere other than this website or the below listed places, it is not me and it is likely to be a scam.
+    
+    Have a nice day!
+
+  socialIcons:
+    - name: BlueSky
+      url: "https://bsky.app/profile/blobrights.bsky.social"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: Email
+      url: "mailto:Andy@absm.art"
+
+  assets:
+    disableHLJS: true
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
