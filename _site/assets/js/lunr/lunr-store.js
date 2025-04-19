@@ -17,6 +17,12 @@ var store = [{
         "url": "/journal/absm.art/",
         "teaser": "/assets/images/500x300.PNG"
       },{
+        "title": "Setting Up a Workflow",
+        "excerpt":"This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub...","categories": ["website"],
+        "tags": ["personal","work","website","Obsidian","GitHub"],
+        "url": "/website/absm.art/",
+        "teaser": "/assets/images/500x300.PNG"
+      },{
     "title": "Archive: Categories",
     "excerpt":" ","url": "http://localhost:4000/categories/"
   },{

@@ -10,28 +10,32 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Archive: Posts | AB Smart</title>
-<meta name="description" content="I’m a multimedia creator and shitposter. I’m 34, queer, autistic, a stoner, from Kansas, and deeply unserious except when I’m not. I’m interested in contributing to artistic and activist projects, and bring a wide range of technical and personal skills to my work. Contact me for information on collaborations and general questions or comments.">
+<!-- begin _includes/seo.html --><title>Setting Up a Workflow | AB Smart</title>
+<meta name="description" content="This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.">
 
 
   <meta name="author" content="A.B. Smart">
   
+  <meta property="article:author" content="A.B. Smart">
+  
 
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="AB Smart">
-<meta property="og:title" content="Archive: Posts">
-<meta property="og:url" content="http://localhost:4000/posts/">
+<meta property="og:title" content="Setting Up a Workflow">
+<meta property="og:url" content="http://localhost:4000/website/absm.art/">
 
 
-  <meta property="og:description" content="I’m a multimedia creator and shitposter. I’m 34, queer, autistic, a stoner, from Kansas, and deeply unserious except when I’m not. I’m interested in contributing to artistic and activist projects, and bring a wide range of technical and personal skills to my work. Contact me for information on collaborations and general questions or comments.">
-
-
-
+  <meta property="og:description" content="This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.">
 
 
 
+
+
+
+
+  <meta property="article:published_time" content="2025-04-19T15:58:19-05:00">
 
 
 
@@ -42,7 +46,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/posts/">
+<link rel="canonical" href="http://localhost:4000/website/absm.art/">
 
 
 
@@ -87,7 +91,7 @@
 
   </head>
 
-  <body class="layout--posts" dir="ltr">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -155,6 +159,8 @@
       
 
 
+
+
   
     
 
@@ -174,7 +180,17 @@
         <span class="sep">/</span>
       
       
-        <li class="current">Archive: Posts</li>
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/categories/#website" itemprop="item"><span itemprop="name">Website</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Setting Up a Workflow</li>
       
     
   </ol>
@@ -304,45 +320,20 @@
 
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Setting Up a Workflow">
+    <meta itemprop="description" content="This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.">
+    <meta itemprop="datePublished" content="2025-04-19T15:58:19-05:00">
     
-      <h1 id="page-title" class="page__title">Archive: Posts</h1>
-    
-    
 
-
-<ul class="taxonomy__index">
-  
-  
-    <li>
-      <a href="#2025">
-        <strong>2025</strong> <span class="taxonomy__count">4</span>
-      </a>
-    </li>
-  
-</ul>
-
-
-
-
-  <section id="2025" class="taxonomy__section">
-    <h2 class="archive__subtitle">2025</h2>
-    <div class="entries-list">
+    <div class="page__inner-wrap">
       
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/website/absm.art/" rel="permalink">Setting Up a Workflow
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/website/absm.art/" itemprop="url">Setting Up a Workflow
 </a>
-      
-    </h2>
-    
+          </h1>
+          
 
   <p class="page__meta">
     
@@ -370,17 +361,127 @@
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? ...</p>
-  </article>
-</div>
-
+        </header>
       
+
+      <section class="page__content" itemprop="text">
+        
+        <p>This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.</p>
+
+<p>Anyway if this shows up, it will mean that all I have to do is format Obsidian documents I create and they’ll work fine for the site. Since Obsidian is a powerful markdown editor in its own right, that enables me to do more robust creation and editing, as well as doing more general site maintenance. I have a feeling I’m gonna still wind up needing to use a ‘text editor’-&gt;’local testing’-&gt;’push to github’ setup instead of being able to do realtime testing on my ipad, then upload the page. I can currently download all the files, and I have the ability to open and edit them, but on my ipad, doing realtime html testing is not possible without Obsidian or an expensive alternative.</p>
+
+<p>Long term, the fewer steps the better. I have pretty bad ADHD, and I get stuck on small steps all the time. Once I get the posting system streamlined, the next focus is on getting assets for the site updated and pushed to the right places, then tweaking the appearance and the UI until i like it. Since I’m using a very basic site format to start, I’m really not concerned with making a huge amount of fancy changes for aesthetic reasons. In the future, I’ll spend time looking into how cool effects are achieved in Jekyll/GitHub Pages, and see what I can do about implementing the ones that make sense.</p>
+
+<p>I’m planning on making any shop/sales type stuff available through BigCartel, so keep an eye out for that in the future. I think in the more near-term, I would rather have a newsletter/mailing list, maybe something like a monthly sticker club, and build a body of customers and community through connections and networking rather than trying to sell merch right off the bat.</p>
+
+<p>I have been working on a management document for the business side of making art, a sort of organizational flow chart for projects so that I can follow a concrete set of steps. I’m pretty confident in the type of expectations I’m putting on myself as a creator, I think I’m still safely in the ‘more ideas than time’ zone, and that’s where I need to stay until some kind of income can happen. I’m still supporting myself with terrible gig work, and everything I’m working on is a part of the process of getting out.</p>
+
+<p>If you’re reading my posts and following along, thank you! I often feel like I have nothing to contribute, like no one would have a reason to see or think about my experiences or opinions. One of the things I try to keep in my head is the idea that creation isn’t necessarily about an audience– if the things I’m making are important to me, even if it’s just a document of the things I’m working on, then presenting it to the world creates the chance that I could help someone , inspire someone, entertain someone, completely out of nothing.</p>
+
+<p>Anyway, have a nice day! I hope to have art posted on this site sooner rather than later. Once I do, I will begin the process of more formally sharing the site and promoting it. In a lot of ways, these are the first steps towards making a career out of creativity. I’ve been hesitant to move into a more professional space until I can feel confident about my portfolio, my skills, and my experience, and I’m growing more into that space every day now.</p>
+
+<p>I’m excited to share the journey with you!</p>
+
+<p>-Andy</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#github" class="page__taxonomy-item p-category" rel="tag">GitHub</a><span class="sep">, </span>
+    
+      <a href="/tags/#obsidian" class="page__taxonomy-item p-category" rel="tag">Obsidian</a><span class="sep">, </span>
+    
+      <a href="/tags/#personal" class="page__taxonomy-item p-category" rel="tag">personal</a><span class="sep">, </span>
+    
+      <a href="/tags/#website" class="page__taxonomy-item p-category" rel="tag">website</a><span class="sep">, </span>
+    
+      <a href="/tags/#work" class="page__taxonomy-item p-category" rel="tag">work</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#website" class="page__taxonomy-item p-category" rel="tag">website</a>
+    
+    </span>
+  </p>
+
+
         
 
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-04-19T15:58:19-05:00">April 19, 2025</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  <h4 class="page__share-title">Share on</h4>
+
+  <a href="https://twitter.com/intent/tweet?text=Setting+Up+a+Workflow%20http%3A%2F%2Flocalhost%3A4000%2Fwebsite%2Fabsm.art%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fwebsite%2Fabsm.art%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/website/absm.art/" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
 
 
-<div class="list__item">
+      
+  <nav class="pagination">
+    
+      <a href="/journal/absm.art/" class="pagination--pager" title="Something meaningful">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    
+<div class="page__related">
+  
+  <h2 class="page__related-title">You May Also Enjoy</h2>
+  <div class="grid__wrapper">
+    
+      
+      
+
+
+
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/500x300.PNG" alt="">
+      </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
@@ -394,7 +495,7 @@
     
       
       <span class="page__meta-date">
-        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
         
         <time datetime="2025-04-17T19:52:19-05:00">April 17, 2025</time>
       </span>
@@ -407,7 +508,7 @@
       
 
       <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
         
           4 minute read
         
@@ -422,13 +523,18 @@
   </article>
 </div>
 
+    
       
-        
+      
 
 
 
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/500x300.PNG" alt="">
+      </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
@@ -442,7 +548,7 @@
     
       
       <span class="page__meta-date">
-        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
         
         <time datetime="2025-04-11T16:52:19-05:00">April 11, 2025</time>
       </span>
@@ -455,7 +561,7 @@
       
 
       <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
         
           less than 1 minute read
         
@@ -470,13 +576,18 @@
   </article>
 </div>
 
+    
       
-        
+      
 
 
 
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/assets/images/500x300.PNG" alt="">
+      </div>
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
       
@@ -490,7 +601,7 @@
     
       
       <span class="page__meta-date">
-        <i class="far fa-calendar-alt" aria-hidden="true"></i>
+        <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
         
         <time datetime="2025-04-11T16:52:19-05:00">April 11, 2025</time>
       </span>
@@ -503,7 +614,7 @@
       
 
       <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+        <i class="far fa-fw fa-clock" aria-hidden="true"></i>
         
           less than 1 minute read
         
@@ -518,13 +629,12 @@
   </article>
 </div>
 
-      
-    </div>
-    <a href="#page-title" class="back-to-top">Back to Top &uarr;</a>
-  </section>
-
-
+    
   </div>
+</div>
+
+  
+  
 </div>
 
       
