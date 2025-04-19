@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/journal/absm.art/</loc>
+<loc>http://localhost:4000/journal/Checking-Things/</loc>
 <lastmod>2025-04-11T16:52:19-05:00</lastmod>
 </url>
 <url>
@@ -9,11 +9,11 @@
 <lastmod>2025-04-11T16:52:19-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/journal/absm.art/</loc>
+<loc>http://localhost:4000/journal/Something-Meaningful/</loc>
 <lastmod>2025-04-17T19:52:19-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/website/absm.art/</loc>
+<loc>http://localhost:4000/website/Setting-Up-A-Workflow/</loc>
 <lastmod>2025-04-19T15:58:19-05:00</lastmod>
 </url>
 <url>
