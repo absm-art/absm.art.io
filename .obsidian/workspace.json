@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "de6d244da6bf0d41",
+    "type": "split",
+    "children": [
+      {
+        "id": "175222a9bdd71c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c13acd47c4fcabd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "346fccd03387a847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e05fdd86b97f969",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5103b62338a0821c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a03c685f85f1560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0974540289a54f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "844be643d85e029e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f25a466a4c0e04f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebb6c172ad53ca86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9236aa6936ff12b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e58ac1fdfb6410b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "fcfe37b289f37ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b89724a9c140cd80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3f0b191cc24a08f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0974540289a54f8",
+  "lastOpenFiles": [
+    "README.md",
+    "old-index.markdown",
+    "index.html",
+    "Gemfile.lock",
+    "Gemfile",
+    "favicon.png",
+    "_config.yml",
+    "404.html",
+    "vendor/bundle/ruby/3.2.0/bin/scss",
+    "vendor/bundle/ruby/3.2.0/bin/sass-convert",
+    "vendor/bundle/ruby/3.2.0/bin/sass",
+    "vendor/bundle/ruby/3.2.0/bin/safe_yaml",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-commonmark-ghpages-0.5.1/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/html-pipeline-2.14.3/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/html-pipeline-2.14.3/CONTRIBUTING.md",
+    "vendor/bundle/ruby/3.2.0/gems/html-pipeline-2.14.3/CHANGELOG.md",
+    "vendor/bundle/ruby/3.2.0/gems/minima-2.5.1/assets/minima-social-icons.svg",
+    "vendor/bundle/ruby/3.2.0/gems/minima-2.5.1/_includes/icon-twitter.svg",
+    "vendor/bundle/ruby/3.2.0/gems/minima-2.5.1/_includes/icon-github.svg",
+    "vendor/bundle/ruby/3.2.0/gems/minima-2.5.1/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/assets/images/zip.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/assets/images/top.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/assets/images/tar.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/assets/images/pattern.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/assets/images/code.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-time-machine-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-tactile-0.2.0/assets/images/zip-icon.png",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-tactile-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-slate-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-primer-0.6.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-primer-0.6.0/LICENSE.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-midnight-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-modernist-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-minimal-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-merlot-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-leap-day-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-hacker-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-dinky-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-cayman-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-theme-architect-0.2.0/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-titles-from-headings-0.5.3/README.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-titles-from-headings-0.5.3/LICENSE.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-seo-tag-2.8.0/docs/usage.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-seo-tag-2.8.0/docs/installation.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-seo-tag-2.8.0/docs/advanced-usage.md",
+    "vendor/bundle/ruby/3.2.0/gems/jekyll-seo-tag-2.8.0/docs/README.md"
+  ]
+}

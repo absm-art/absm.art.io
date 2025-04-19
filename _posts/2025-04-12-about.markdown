@@ -1,0 +1,14 @@
+---
+layout: single
+title: "About This Site"
+permalink: /about/
+date:   2025-04-11 16:52:19 -0500
+---
+
+My name is Andy. I'm starting this website in April of 2025. I'm 34 years old.
+
+I've spent a long time waiting and holding myself back. If you want to make something happen, you have to start somewhere.
+
+Welcome. I'm hopeful that I can use this space as a portfolio, journal, and blog for my journey as an artist and a human being. I'm leveraging experience and education in a lot of backgrounds, a huge amount of life experience, and my own personal passion and weirdness to make something beautiful- I don't know what it's gonna look like yet, but maybe you can help me figure it out.
+
+I hope you'll come along with me.
