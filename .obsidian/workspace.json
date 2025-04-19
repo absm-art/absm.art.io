@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de044c83703fe0ce",
+        "id": "777a6e824b13c12e",
         "type": "tabs",
         "children": [
           {
-            "id": "5a7af44c67c7a75a",
+            "id": "436937be960f0d17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-19-absm.art.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-04-19-absm.art"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2025-04-19-absm.art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-04-19-absm.art"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2025-04-19-absm.art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-04-19-absm.art"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/2025-04-19-absm.art.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-04-19-absm.art"
             }
           }
         ]
@@ -161,9 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a7af44c67c7a75a",
+  "active": "436937be960f0d17",
   "lastOpenFiles": [
-    "_posts/2025-04-19-absm.art.markdown.md",
+    "_posts/2025-04-19-absm.art.md",
     "CNAME",
     "_posts/Drafts/Obsidian Workflow.md",
     "vendor/bundle/ruby/3.2.0/gems/sass-3.7.4/CODE_OF_CONDUCT.md",
