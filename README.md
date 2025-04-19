@@ -7,7 +7,7 @@ My name is Andy.
 
 
 
-This site is hosted on Github Pages. It uses Hugo to generate resources for Github to build.
+This site is hosted on Github Pages. It uses Jekyll to generate resources for Github to build.
 
 You are currently viewing the Readme File.
 
