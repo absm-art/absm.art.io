@@ -157,6 +157,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - .obsidian
 keep_files:
   - .git
   - .svn
