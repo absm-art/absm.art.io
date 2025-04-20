@@ -24,23 +24,23 @@ var store = [{
         "teaser": "/assets/images/500x300.PNG"
       },{
     "title": "Archive: Categories",
-    "excerpt":" ","url": "https://www.absm.art//categories/"
+    "excerpt":" ","url": "http://localhost:4000/categories/"
   },{
     "title": "Portfolio: AB Smart",
-    "excerpt":"","url": "https://www.absm.art//portfolio/"
+    "excerpt":"","url": "http://localhost:4000/portfolio/"
   },{
     "title": "Archive: Categories",
-    "excerpt":"","url": "https://www.absm.art//categories/"
+    "excerpt":"","url": "http://localhost:4000/categories/"
   },{
     "title": "Archive: Tags",
-    "excerpt":"","url": "https://www.absm.art//tags/"
+    "excerpt":"","url": "http://localhost:4000/tags/"
   },{
     "title": "Portfolio",
-    "excerpt":" ","url": "https://www.absm.art//portfolio/"
+    "excerpt":" ","url": "http://localhost:4000/portfolio/"
   },{
     "title": "Archive: Tags",
-    "excerpt":" ","url": "https://www.absm.art//tags/"
+    "excerpt":" ","url": "http://localhost:4000/tags/"
   },{
     "title": "Archive: Posts",
-    "excerpt":" ","url": "https://www.absm.art//posts/"
+    "excerpt":" ","url": "http://localhost:4000/posts/"
   }]
