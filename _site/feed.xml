@@ -1,4 +1,89 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-04-19T18:43:41-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AB Smart</title><subtitle>I&apos;m a multimedia creator and shitposter. I&apos;m 34, queer, autistic, a stoner, from Kansas, and deeply unserious except when I&apos;m not. I&apos;m interested in contributing to artistic and activist projects, and bring a wide range of technical and personal skills to my work. Contact me for information on collaborations and general questions or comments.</subtitle><author><name>A.B. Smart</name></author><entry><title type="html">Setting Up a Workflow</title><link href="http://localhost:4000/website/Setting-Up-A-Workflow/" rel="alternate" type="text/html" title="Setting Up a Workflow" /><published>2025-04-19T15:58:19-05:00</published><updated>2025-04-19T15:58:19-05:00</updated><id>http://localhost:4000/website/Setting-Up-A-Workflow</id><content type="html" xml:base="http://localhost:4000/website/Setting-Up-A-Workflow/"><![CDATA[<p>This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://www.absm.art//feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.absm.art//" rel="alternate" type="text/html" /><updated>2025-04-21T11:07:52-05:00</updated><id>https://www.absm.art//feed.xml</id><title type="html">AB Smart</title><subtitle>I&apos;m a multimedia creator and shitposter. I&apos;m 34, queer, autistic, a stoner, from Kansas, and deeply unserious except when I&apos;m not. I&apos;m interested in contributing to artistic and activist projects, and bring a wide range of technical and personal skills to my work. Contact me for information on collaborations and general questions or comments.</subtitle><author><name>A.B. Smart</name></author><entry><title type="html">Changelog for the Website</title><link href="https://www.absm.art//website/Webite-Changes/" rel="alternate" type="text/html" title="Changelog for the Website" /><published>2025-04-20T12:40:00-05:00</published><updated>2025-04-20T12:40:00-05:00</updated><id>https://www.absm.art//website/Webite-Changes</id><content type="html" xml:base="https://www.absm.art//website/Webite-Changes/"><![CDATA[<p>Here’s a raw dump of the list i’ve been using for website things. At some point I’m gonna rebuild the machine I’m using, rebuild the website backend from scratch, and relaunch. But like a lot of my recent projects, I’m just kinda doing it and seeing what happens for now. So I’m not being too precious about posting and generating content for the site.</p>
+
+<p>~</p>
+
+<ul>
+  <li>categories fixed
+done, list / adjust</li>
+  <li>tags fixed and implemented
+done, list</li>
+  <li>about page properly implemented
+done</li>
+  <li>practice posts
+first done</li>
+  <li>
+    <p>image uploads and usage in banners, header, footer</p>
+  </li>
+  <li>google analytics
+done</li>
+  <li>search
+done</li>
+  <li>
+    <p>archive organization/implementation - liquid
+done</p>
+  </li>
+  <li>basics of design components and implementation w/ jekyll and mmistakes theme</li>
+</ul>
+
+<p>implemented, needs study</p>
+
+<p>new needs 4/19/2025</p>
+
+<ul>
+  <li>
+    <p>art posts</p>
+  </li>
+  <li>
+    <p>art portfolio/archive setup/bugfixing</p>
+  </li>
+  <li>
+    <p>change colors/UI elements/fonts around if needed</p>
+  </li>
+  <li>
+    <p>change visual assets around if needed</p>
+  </li>
+  <li>
+    <p>upload things like header images, teaser, background images</p>
+  </li>
+  <li>
+    <p>implement things like content blocking/backgrounds</p>
+  </li>
+</ul>
+
+<p>~</p>
+
+<p>I’m also listing the categories I use here, adding more as they’re implemented:</p>
+
+<p>Journal
+Website
+About</p>
+
+<p>And here are the tags I use:</p>
+
+<p>personal
+website
+work
+journal
+art
+list
+portfolio
+blog
+Obsidian
+GitHub</p>
+
+<p>Once I make some more regular posts, I will come through and clean up the tags and categories a little, and set up a formal way of listing them on individual posts.</p>
+
+<p>~</p>
+
+<p>Ideally I want the site to feature my art heavily. I have some pattern ideas I want to work on over the next few weeks for backgrounds and elements, some teaser images I can crop and import, and some other random assets and fonts to tweak until I like the way things look.</p>
+
+<p>If you’re reading this and you have ideas or you want to see something specific come to the site, send me an email or hit me up on bluesky! This is a community project, and I’m hoping I can use this space to shout out people that contribute, people in the arts and queer communities doing good work, and movements/messsages that need more voices repeating them!</p>
+
+<p>Part of the process I’m working on implementing both here and in my art: Just posting. Just making things. Just doing the work regardless of how many people see it or how much money it makes me today. It might seem counterintuitive, but I’m trying my best to spend as <em>little</em> time as possible working on projects like this post, things that I’m producing as a byproduct of existing and thinking but which don’t rise to the level of hyperfocus, dedicating editing and proofreading resources, etc. I have a substantial tendency to overwork projects and get caught up in small details that don’t ultimately contribute an equivalent amount to the feeling I have at the end of the project. In that regard, this article only took me like 20 minutes to put together, basically all of which was typing. However, as a way to also illustrate the value of small contributions like this one, the lists I made and the ideas I’m building this writing off of were work that I put in before. Recording that work and keeping it available, building on it and synthesizing information into something I can put on a page, those are all steps in the creative process that need to be taken in order to reach an end result. This page is a resource that I plan to use extensively when I’m writing articles and making future plans for changing the site and the way I do things. The net work that went into this page is hours and hours of background work, and the future value of taking half an hour to write it down could potentially be hours and hours more.</p>
+
+<p>This is your reminder to start that project you’re thinking about. Just write down a draft or draw a sketch. Do it!</p>
+
+<p>-Andy</p>]]></content><author><name>A.B. Smart</name></author><category term="website" /><category term="personal" /><category term="work" /><category term="website" /><category term="list" /><category term="blog" /><summary type="html"><![CDATA[Here’s a raw dump of the list i’ve been using for website things. At some point I’m gonna rebuild the machine I’m using, rebuild the website backend from scratch, and relaunch. But like a lot of my recent projects, I’m just kinda doing it and seeing what happens for now. So I’m not being too precious about posting and generating content for the site.]]></summary></entry><entry><title type="html">Setting Up a Workflow</title><link href="https://www.absm.art//website/Setting-Up-A-Workflow/" rel="alternate" type="text/html" title="Setting Up a Workflow" /><published>2025-04-19T15:58:19-05:00</published><updated>2025-04-19T15:58:19-05:00</updated><id>https://www.absm.art//website/Setting-Up-A-Workflow</id><content type="html" xml:base="https://www.absm.art//website/Setting-Up-A-Workflow/"><![CDATA[<p>This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.</p>
 
 <p>Anyway if this shows up, it will mean that all I have to do is format Obsidian documents I create and they’ll work fine for the site. Since Obsidian is a powerful markdown editor in its own right, that enables me to do more robust creation and editing, as well as doing more general site maintenance. I have a feeling I’m gonna still wind up needing to use a ‘text editor’-&gt;’local testing’-&gt;’push to github’ setup instead of being able to do realtime testing on my ipad, then upload the page. I can currently download all the files, and I have the ability to open and edit them, but on my ipad, doing realtime html testing is not possible without Obsidian or an expensive alternative.</p>
 
@@ -14,7 +99,7 @@
 
 <p>I’m excited to share the journey with you!</p>
 
-<p>-Andy</p>]]></content><author><name>A.B. Smart</name></author><category term="website" /><category term="personal" /><category term="work" /><category term="website" /><category term="Obsidian" /><category term="GitHub" /><summary type="html"><![CDATA[This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.]]></summary></entry><entry><title type="html">Something meaningful</title><link href="http://localhost:4000/journal/Something-Meaningful/" rel="alternate" type="text/html" title="Something meaningful" /><published>2025-04-17T19:52:19-05:00</published><updated>2025-04-17T19:52:19-05:00</updated><id>http://localhost:4000/journal/Something-Meaningful</id><content type="html" xml:base="http://localhost:4000/journal/Something-Meaningful/"><![CDATA[<p>Well, it’s certainly a strange time in history to be alive.</p>
+<p>-Andy</p>]]></content><author><name>A.B. Smart</name></author><category term="website" /><category term="personal" /><category term="work" /><category term="website" /><category term="Obsidian" /><category term="GitHub" /><summary type="html"><![CDATA[This is a test to see if the Obsidian post creation workflow is gonna get the results I want– I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.]]></summary></entry><entry><title type="html">Something meaningful</title><link href="https://www.absm.art//journal/Something-Meaningful/" rel="alternate" type="text/html" title="Something meaningful" /><published>2025-04-17T19:52:19-05:00</published><updated>2025-04-17T19:52:19-05:00</updated><id>https://www.absm.art//journal/Something-Meaningful</id><content type="html" xml:base="https://www.absm.art//journal/Something-Meaningful/"><![CDATA[<p>Well, it’s certainly a strange time in history to be alive.</p>
 
 <p>I suppose, aside from the ‘about me’ page and the inaugural ‘what the hell is a website’ post, this is the first time I’m writing something that will be published under my own name, as a part of my own project, on my own power. I feel very lucky that I’ve had the opportunity through the course of my life to learn a ton across a huge number of subjects, including computer science, writing, SEO, design. I’m excited to use those skills to make something that really represents me.</p>
 
@@ -34,7 +119,7 @@
 
 <p>Making things isn’t necessarily about showing them to people, but in my experience, making things always seems to go better when you have good friends to help you along the way, and share in the creation with. I hope you’ll join me on the quest for great stories!</p>
 
-<p>-Andy</p>]]></content><author><name>A.B. Smart</name></author><category term="journal" /><category term="personal" /><summary type="html"><![CDATA[Well, it’s certainly a strange time in history to be alive.]]></summary></entry><entry><title type="html">Let’s Test Some Things</title><link href="http://localhost:4000/journal/Checking-Things/" rel="alternate" type="text/html" title="Let’s Test Some Things" /><published>2025-04-11T16:52:19-05:00</published><updated>2025-04-11T16:52:19-05:00</updated><id>http://localhost:4000/journal/Checking-Things</id><content type="html" xml:base="http://localhost:4000/journal/Checking-Things/"><![CDATA[<p>Hmmmm Okay, I’m testing out the posting system to see if this makes sense.</p>
+<p>-Andy</p>]]></content><author><name>A.B. Smart</name></author><category term="journal" /><category term="personal" /><summary type="html"><![CDATA[Well, it’s certainly a strange time in history to be alive.]]></summary></entry><entry><title type="html">Let’s Test Some Things</title><link href="https://www.absm.art//journal/Checking-Things/" rel="alternate" type="text/html" title="Let’s Test Some Things" /><published>2025-04-11T16:52:19-05:00</published><updated>2025-04-11T16:52:19-05:00</updated><id>https://www.absm.art//journal/Checking-Things</id><content type="html" xml:base="https://www.absm.art//journal/Checking-Things/"><![CDATA[<p>Hmmmm Okay, I’m testing out the posting system to see if this makes sense.</p>
 
 <p>Various formatting tricks will probably break this functionality, but for now we’re ballin</p>
 
@@ -54,7 +139,7 @@
 
 <p>It appears the site is online! There is still a ton to do to get things set up, but the thing is operational and working as expected with posts and images. I’ll post an in-depth guide some time walking through the process!!</p>
 
-<p>Thanks for reading, have a nice day!</p>]]></content><author><name>A.B. Smart</name></author><category term="journal" /><category term="personal" /><summary type="html"><![CDATA[Hmmmm Okay, I’m testing out the posting system to see if this makes sense.]]></summary></entry><entry><title type="html">About This Site</title><link href="http://localhost:4000/about/" rel="alternate" type="text/html" title="About This Site" /><published>2025-04-11T16:52:19-05:00</published><updated>2025-04-11T16:52:19-05:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about/"><![CDATA[<p>My name is Andy. I’m starting this website in April of 2025. I’m 34 years old.</p>
+<p>Thanks for reading, have a nice day!</p>]]></content><author><name>A.B. Smart</name></author><category term="journal" /><category term="personal" /><summary type="html"><![CDATA[Hmmmm Okay, I’m testing out the posting system to see if this makes sense.]]></summary></entry><entry><title type="html">About This Site</title><link href="https://www.absm.art//about/" rel="alternate" type="text/html" title="About This Site" /><published>2025-04-11T16:52:19-05:00</published><updated>2025-04-11T16:52:19-05:00</updated><id>https://www.absm.art//about</id><content type="html" xml:base="https://www.absm.art//about/"><![CDATA[<p>My name is Andy. I’m starting this website in April of 2025. I’m 34 years old.</p>
 
 <p>I’ve spent a long time waiting and holding myself back. If you want to make something happen, you have to start somewhere.</p>
 

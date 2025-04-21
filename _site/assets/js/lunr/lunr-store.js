@@ -23,24 +23,30 @@ var store = [{
         "url": "/website/Setting-Up-A-Workflow/",
         "teaser": "/assets/images/500x300.PNG"
       },{
+        "title": "Changelog for the Website",
+        "excerpt":"Here’s a raw dump of the list i’ve been using for website things. At some point I’m gonna rebuild the machine I’m using, rebuild the website backend from scratch, and relaunch. But like a lot of my recent projects, I’m just kinda doing it and seeing what happens for now....","categories": ["website"],
+        "tags": ["personal","work","website","list","blog"],
+        "url": "/website/Webite-Changes/",
+        "teaser": "/assets/images/500x300.PNG"
+      },{
     "title": "Archive: Categories",
-    "excerpt":" ","url": "http://localhost:4000/categories/"
+    "excerpt":" ","url": "https://www.absm.art//categories/"
   },{
     "title": "Portfolio: AB Smart",
-    "excerpt":"","url": "http://localhost:4000/portfolio/"
+    "excerpt":"","url": "https://www.absm.art//portfolio/"
   },{
     "title": "Archive: Categories",
-    "excerpt":"","url": "http://localhost:4000/categories/"
+    "excerpt":"","url": "https://www.absm.art//categories/"
   },{
     "title": "Archive: Tags",
-    "excerpt":"","url": "http://localhost:4000/tags/"
+    "excerpt":"","url": "https://www.absm.art//tags/"
   },{
     "title": "Portfolio",
-    "excerpt":" ","url": "http://localhost:4000/portfolio/"
+    "excerpt":" ","url": "https://www.absm.art//portfolio/"
   },{
     "title": "Archive: Tags",
-    "excerpt":" ","url": "http://localhost:4000/tags/"
+    "excerpt":" ","url": "https://www.absm.art//tags/"
   },{
     "title": "Archive: Posts",
-    "excerpt":" ","url": "http://localhost:4000/posts/"
+    "excerpt":" ","url": "https://www.absm.art//posts/"
   }]
