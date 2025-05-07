@@ -31,7 +31,7 @@ masthead_title           : "AB Smart" # overrides the website title displayed in
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "Andrew Sammons"
+copyright                : "A.B. Smart"
 copyright_url            : # "copyright" URL, defaults to site.url
 reCaptcha:
   siteKey                :
