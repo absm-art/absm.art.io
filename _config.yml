@@ -25,7 +25,7 @@ description              : "I'm an independent multimedia creator from Kansas. I
 url                      : "https://www.absm.art/"
 baseurl                  : 
 repository               : absm-art/absm.art.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.PNG
+teaser                   : /assets/images/IMG_0134.jpeg
 logo                     : /assets/images/88x88.PNG
 masthead_title           : "AB Smart" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
