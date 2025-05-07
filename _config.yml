@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,7 +21,7 @@ title                    : "AB Smart"
 title_separator          : "|"
 subtitle                 : "This is the BLOB BASE"
 name                     : "Andrew Smart"
-description              : "I'm a multimedia creator and shitposter. I'm 34, queer, autistic, a stoner, from Kansas, and deeply unserious except when I'm not. I'm interested in contributing to artistic and activist projects, and bring a wide range of technical and personal skills to my work. Contact me for information on collaborations and general questions or comments."
+description              : "I'm an independent multimedia creator from Kansas. I'm interested in contributing to academic, artistic, and activist projects, and I bring a wide range of technical and personal skills to my work. Contact me via email for information on collaborations, commissions, permissions, and general questions or comments."
 url                      : "https://www.absm.art/"
 baseurl                  : 
 repository               : absm-art/absm.art.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,11 +67,6 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : google
-  google:
-    tracking_id          : "G-HHV9631TQM"
-    anonymize_ip         : # true, false (default)
 
 
 # Site Author
@@ -79,7 +74,7 @@ author:
   name             : "A.B. Smart"
   avatar           : /assets/images/bio.png
   bio              : "My name is Andy, this is my website. It's currently a work in progress."
-  location         : "Lawrence, Kansas"
+  location         : "Kansas City"
   email            : # "Andy@absm.art"
   links:
     - label: "Email"
