@@ -1,3 +1,11 @@
+---
+categories: work
+pagination:
+  enabled: true
+tags:
+  - short story
+  - science fiction
+---
 ### 8.16.2022
 
 
