@@ -12,7 +12,7 @@ tags:
 
 -
 
-The room was white and empty. The glossy sheen of porcelain tile glared back at him as he glared into the mirror. He gripped the glaze-smooth surface of the sink in one hand and touched his temple with the first and second finger of the other.
+The room was white and empty. The glossy sheen of porcelain tile glared back at him as he gazed into the mirror. He gripped the glaze-smooth surface of the sink in one hand and touched his temple with the first and second finger of the other.
 
 It was there.
 
