@@ -7,10 +7,9 @@ tags:
   - short story
   - science fiction
 ---
-### 8.16.2022
+### 2022.8.16
+
 -
-
-
 
 The sheer number of them was mind boggling. There was no way she could have predicted this.
 
