@@ -8,6 +8,8 @@ tags:
 ---
 ### 2073.--.--
 
+-
+
 Dr. Kurt put his hand to his temple.
 
 Nothing was there.
