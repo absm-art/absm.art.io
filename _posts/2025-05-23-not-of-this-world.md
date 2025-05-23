@@ -5,7 +5,7 @@ tags:
   - short story
   - science fiction
 ---
-### 2016.2.23
+### unknown date
 
 -
 
