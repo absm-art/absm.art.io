@@ -2,7 +2,7 @@
 categories:
   - Stories
 tags:
-  - short stories
+  - short story
   - science fiction
   - the orchard
 ---
