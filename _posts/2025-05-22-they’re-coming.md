@@ -1,6 +1,6 @@
 ---
 categories:
-  - A.B. Smart
+  - Stories
 pagination:
   enabled: true
 tags:
