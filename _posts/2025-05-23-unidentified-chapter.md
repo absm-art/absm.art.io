@@ -24,7 +24,7 @@ He looked at his hands, and then the room. It was different.
 
 Everything was white now. The walls were gone. Everything was gone but him. In the distance from every direction a whisper grew and grew, until it was a droning hum that echoed across eternity and clawed at the inside of his mind. He clutched his hands to his head and reeled as the sound boomed and crescendoed into a screeching wail that emanated from his own mouth.
 
-He was on the floor. He lay in a mess of piss and tears and the bloody streaks where he had clawed at the endless blank floor until falling unconscious. How long had he been there? What had happened to the simulation?
+He was on the floor. He lay in a mess of piss and tears and the bloody streaks where he had scratched at the endless blank floor until falling unconscious. How long had he been there? What had happened to the simulation?
 
 Was he dead?
 
