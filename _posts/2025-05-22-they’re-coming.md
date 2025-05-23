@@ -7,7 +7,7 @@ tags:
   - short story
   - science fiction
 ---
-### 2022.8.16
+### 3122.8.16
 
 -
 
