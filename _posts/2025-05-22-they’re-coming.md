@@ -1,5 +1,5 @@
 ---
-categories: work
+categories: A.B Smart
 pagination:
   enabled: true
 tags:
