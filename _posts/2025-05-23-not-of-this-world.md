@@ -2,7 +2,8 @@
 categories:
   - Stories
 tags:
-  - writing
+  - short story
+  - science fiction
 ---
 ### 2016.2.23
 
