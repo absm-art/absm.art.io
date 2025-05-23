@@ -1,6 +1,6 @@
 ---
 categories:
-  - A.B.Smart
+  - A.B. Smart
 pagination:
   enabled: true
 tags:
