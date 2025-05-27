@@ -7,7 +7,7 @@ header:
     caption: "Digital Waffle"
     image_description: "A painting of a waffle"
     actions:
-      - label: "Blog Posts"
       - url: "https://www.absm.art/posts/"
+      - label: "Blog Posts"
 permalink: /
 ---
