@@ -6,8 +6,8 @@ header:
     overlay_filter: 0.5
     caption: "Digital Waffle"
     image_description: "A painting of a waffle"
-	actions:
-	     - label: "Blog Posts"
-	     url: "https://www.absm.art/posts/"
+    actions:
+      - label: "Blog Posts"
+	url: "https://www.absm.art/posts/"
 permalink: /
 ---
