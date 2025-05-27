@@ -8,6 +8,6 @@ header:
     image_description: "A painting of a waffle"
     actions:
       - label: "Blog Posts"
-	url: "https://www.absm.art/posts/"
+      url: "https://www.absm.art/posts/"
 permalink: /
 ---
