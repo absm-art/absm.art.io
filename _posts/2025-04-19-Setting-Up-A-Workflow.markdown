@@ -2,10 +2,8 @@
 layout: single
 title: "Setting Up a Workflow"
 date: 2025-04-19 15:58:19 -0500
-categories: website
+categories: journal
 tags:
-  - personal
-  - work
   - website
 ---
 
