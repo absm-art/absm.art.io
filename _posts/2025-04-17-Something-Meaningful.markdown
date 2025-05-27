@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "Something meaningful"
+header:
+    image: assets/images/IMG_0185.png
+    caption: "Portrait of the Artist in Spring"
 date:   2025-04-17 19:52:19 -0500
 categories: journal
 pagination:
