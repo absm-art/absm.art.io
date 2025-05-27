@@ -2,7 +2,7 @@
 layout: single
 title: "About This Site"
 header:
-    image: assets/images/IMG_0185.png
+    overlay_image: assets/images/IMG_0185.png
     caption: "Portrait of the Artist in Spring"
 permalink: /about/
 date:   2025-04-11 16:52:19 -0500
