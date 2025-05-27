@@ -2,7 +2,7 @@
 layout: single
 title: "Andrew Sammons"
 header:
-    image: assets/images/IMG_0185.png
+    overlay_image: assets/images/IMG_0185.png
     caption: "Portrait of the Artist in Spring"
 permalink: /Resume/
 pagination:
@@ -11,11 +11,8 @@ hidden: true
 ---
 
 Independent Artist
---
 Computer Information Systems Specialist
---
 Technical Writer
---
 
 I'm a journeyman with an enormous range of skills and experiences. I have worked in several different industries and with the government, with varying degrees of responsibility and security clearance level. I am building a personal website and brand as an artist, while applying my skills as a strong contributor to team projects. I build new skills extremely quickly; integrate, communicate, and develop work relationships at a high level; and bring positivity, a personal growth mindset, and lots of passion to my projects.
 
