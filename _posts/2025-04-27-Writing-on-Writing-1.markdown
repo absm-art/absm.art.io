@@ -7,8 +7,6 @@ pagination:
   enabled: true
 tags:
   - personal
-  - writing
-  - blog
 ---
 
 "Writing is hard" is a sentence that feels silly to write, like invoking some sort of secret ancient power by saying "poopy doopy ding dong".
