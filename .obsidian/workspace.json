@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/category-archive.md",
+                "file": "year-archive.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "category-archive"
+              "title": "year-archive"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/category-archive.md",
+                "file": "year-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for category-archive"
+              "title": "Backlinks for year-archive"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/category-archive.md",
+                "file": "year-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from category-archive"
+              "title": "Outgoing links from year-archive"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/category-archive.md",
+                "file": "year-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of category-archive"
+              "title": "Outline of year-archive"
             }
           }
         ]
@@ -170,8 +170,18 @@
   },
   "active": "2813b1257dd1fbdf",
   "lastOpenFiles": [
-    "_config.yml.sb-32221512-TkpsTV",
+    "_pages/home.md",
+    "_pages/about.md",
+    "_pages/resume.md",
+    "tag-archive.md",
+    "portfolio-archive.md",
+    "category-archive.md",
     "README.md",
-    "_pages/home.md"
+    "_pages/category-archive.md",
+    "_pages/resume.markdown",
+    "_pages/2025-05-07-Résumé.md",
+    "_pages/home.markdown",
+    "year-archive.md",
+    "_config.yml.sb-32221512-TkpsTV"
   ]
 }
