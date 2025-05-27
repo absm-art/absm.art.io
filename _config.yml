@@ -21,7 +21,7 @@ title                    : "Blob Base"
 title_separator          : "|"
 subtitle                 : "Welcome to the BLOB BASE"
 name                     : "Andrew Smart"
-description              : "I'm an independent multimedia creator from Kansas. I'm interested in contributing to academic, artistic, and activist projects, and I bring a wide range of technical and personal skills to my work. Contact me via email for information on collaborations, commissions, permissions, and general questions or comments."
+description              : "I'm an independent multimedia creator from Kansas. I'm interested in contributing to academic, artistic, and activist projects, and I bring a wide range of technical and personal skills to my work. Contact me via email for information on collaborations, commissions, permissions, and general questions or comments. All work featured on this site is original and subject to copyright unless noted. All rights reserved."
 url                      : "https://www.absm.art/"
 baseurl                  : 
 repository               : absm-art/absm.art.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
