@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/home.md",
+                "file": "_pages/category-archive.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "category-archive"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/home.md",
+                "file": "_pages/category-archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for home"
+              "title": "Backlinks for category-archive"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/home.md",
+                "file": "_pages/category-archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from home"
+              "title": "Outgoing links from category-archive"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/home.md",
+                "file": "_pages/category-archive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of home"
+              "title": "Outline of category-archive"
             }
           }
         ]
@@ -168,6 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ca5cae5c71bbf67",
-  "lastOpenFiles": []
+  "active": "2813b1257dd1fbdf",
+  "lastOpenFiles": [
+    "_config.yml.sb-32221512-TkpsTV",
+    "README.md",
+    "_pages/home.md"
+  ]
 }
