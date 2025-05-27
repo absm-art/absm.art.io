@@ -38,7 +38,7 @@ Thanks for reading, have a nice day!
 
 Update Juneish 2025: adding header images to a bunch of pages after uploading some stories! things going well so far-- here's a little test lmao
 
-![Portrait of the Artist in Spring](assets/images/IMG_0185.png)
+![Portrait of the Artist in Spring](/assets/images/IMG_0185.png)
 
 
 
