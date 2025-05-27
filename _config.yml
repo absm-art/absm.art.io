@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Blob Base"
 title_separator          : "|"
-subtitle                 : "Welcome! This is the digital home for my writing and art."
+subtitle                 : "Welcometo the BLOB BASE"
 name                     : "Andrew Smart"
 description              : "I'm an independent multimedia creator from Kansas. I'm interested in contributing to academic, artistic, and activist projects, and I bring a wide range of technical and personal skills to my work. Contact me via email for information on collaborations, commissions, permissions, and general questions or comments."
 url                      : "https://www.absm.art/"
@@ -27,7 +27,7 @@ baseurl                  :
 repository               : absm-art/absm.art.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/IMG_0162.jpeg
 logo                     : /assets/images/88x88.PNG
-masthead_title           : "AB Smart" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
