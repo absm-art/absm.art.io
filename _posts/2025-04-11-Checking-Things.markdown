@@ -5,7 +5,7 @@ date:   2025-04-11 16:52:19 -0500
 categories: journal
 pagination:
     enabled: true
-tags: personal
+tags: website
 ---
 
 Hmmmm Okay, I'm testing out the posting system to see if this makes sense.
