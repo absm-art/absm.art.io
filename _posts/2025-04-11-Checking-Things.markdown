@@ -1,6 +1,9 @@
 ---
 layout: single
 title:  "Let's Test Some Things"
+header:
+    image: assets/images/IMG_0188.png
+    caption: "Digital Waffle"
 date:   2025-04-11 16:52:19 -0500
 categories: journal
 pagination:
@@ -29,3 +32,16 @@ For now, it's cool as hell that this website even works at all. And I'm gaining 
 It appears the site is online! There is still a ton to do to get things set up, but the thing is operational and working as expected with posts and images. I'll post an in-depth guide some time walking through the process!!
 
 Thanks for reading, have a nice day!
+
+
+-------
+
+Update Juneish 2025: adding header images to a bunch of pages after uploading some stories! things going well so far-- here's a little test lmao
+
+![Portrait of the Artist in Spring](assets/images/IMG_0185.png)
+
+
+
+
+
+
