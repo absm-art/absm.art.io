@@ -1,8 +1,8 @@
 ---
 title: "unidentified chapter"
 header:
-  image: /assets/images/IMG_0205.png
-  caption: "Digital Watercolor Adder Scales"
+  overlay_image: /assets/images/IMG_0205.png
+  caption: "Adder Scales"
 categories:
   - Stories
 tags:
