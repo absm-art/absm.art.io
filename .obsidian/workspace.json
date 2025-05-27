@@ -15,7 +15,7 @@
               "state": {
                 "file": "_pages/home.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "home"
