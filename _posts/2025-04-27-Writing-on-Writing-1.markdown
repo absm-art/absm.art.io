@@ -1,6 +1,9 @@
 ---
 layout: single
-title: Writing on Writing 1
+title: "Writing on Writing 1"
+header:
+    image: assets/images/IMG_0185.png
+    caption: "Portrait of the Artist in Spring"
 date: '2025-04-27 20:00:00 -0500'
 categories: journal
 pagination:
