@@ -7,8 +7,6 @@ tags:
   - personal
   - work
   - website
-  - Obsidian
-  - GitHub
 ---
 
 This is a test to see if the Obsidian post creation workflow is gonna get the results I want-- I can create markdown files, sure, but are they weird somehow? The process for making them requires Obsidian to install directory files in the root of the website assets, but GitHub and Jekyll also have directory files in there too.
