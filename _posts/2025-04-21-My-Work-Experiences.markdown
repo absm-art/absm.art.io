@@ -8,8 +8,6 @@ pagination:
 tags: 
   - personal
   - work
-  - list
-  - blog
 ---
 
 One of my personal sort of philosophical reasons for doing things like making this website and writing weird little articles like this is that it gives me the opportunity to reexamine a phase of career and mental adolescence that most people experience much earlier in their lives. Time has changed a lot about youth in the last 2 decades, and there was a lot of value in the lessons I missed when I was a kid/teenager/young adult. In the 1990s, the idea of a simple blog was just starting out. 
