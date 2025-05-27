@@ -2,15 +2,12 @@
 layout: single
 title:  "Changelog for the Website"
 date:   2025-04-20 12:40:00 -0500
-categories: website
+categories: journal
 pagination:
     enabled: true
 tags: 
   - personal
-  - work
   - website
-  - list
-  - blog
 ---
 
 Here's a raw dump of the list i've been using for website things. At some point I'm gonna rebuild the machine I'm using, rebuild the website backend from scratch, and relaunch. But like a lot of my recent projects, I'm just kinda doing it and seeing what happens for now. So I'm not being too precious about posting and generating content for the site.
