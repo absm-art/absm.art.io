@@ -6,6 +6,9 @@ pagination:
 tags:
   - short story
   - science fiction
+header:
+  image: /assets/images/IMG_0234.png
+  caption: Clouds
 ---
 ### 3122.8.16
 
