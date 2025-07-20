@@ -1,8 +1,8 @@
 ---
-title: "unidentified chapter"
+title: unidentified chapter
 header:
-  overlay_image: /assets/images/IMG_0205.png
-  caption: "Adder Scales"
+  image: /assets/images/IMG_0205.png
+  caption: Adder Scales
 categories:
   - Stories
 tags:
