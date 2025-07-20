@@ -5,7 +5,7 @@ tags:
   - short story
   - science fiction
 header:
-  overlay_image: /assets/images/IMG_0205.png
+  image: /assets/images/IMG_0205.png
   caption: Adder Scales
 ---
 ### unknown date
