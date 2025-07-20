@@ -5,6 +5,9 @@ tags:
   - short story
   - science fiction
   - the orchard
+header:
+  image: /assets/images/IMG_0205.png
+  caption: Adder Scales
 ---
 ## Prologue
 
